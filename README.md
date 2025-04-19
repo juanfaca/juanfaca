@@ -24,10 +24,6 @@
 
 ## 📂 Featured Projects:
 
-- 🔹 [**Gender_Wage_Gap_Quantiles**](https://github.com/juanfaca/Gender_Wage_Gap_Quantiles):  
-  Key evidence and data about the sticky floor and glass ceiling in Peru's labor market.  
-  _Includes wage gap quantiles calculated via statistical modes._
-
 - 🔹 [**Goodreads_Webscraping**](https://github.com/juanfaca/Goodreads_Webscraping):  
   Web scraper for Goodreads reviews, plus a basic analysis of book ratings and feedback.
 
