@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭 Economist exploring the intersection of data, public policy, and analytics.<br>
-👨‍🎓 Graduated in Economics from Universidad Nacional de Ingeniería, Peru.<br>
+🔭 Economist who enjoy exploring data from different sectors such as health, energy, public investment among others.<br>
+👨‍🎓 Graduated from National University of Engineering (top 10%), Peru.<br>
 💼 Currently working as a Data Analyst at Videnza Instituto, focused on transforming public data into insights.<br>
-🧠 Passionate about web scraping, data storytelling, and evidence-based decision making.<br>
-📚 Always reading — especially nonfiction, novels, and essays.
+🧠 Passionate about web scraping, data visualization, and evidence-based decision making.<br>
+📚 Always reading — especially nonfiction, novels, and essays.<br>
+🥋 Taekwondo practicioner.<br>
 
 ---
 
