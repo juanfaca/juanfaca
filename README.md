@@ -22,8 +22,13 @@
 - 🔹 [**Goodreads_Webscraping**](https://github.com/juanfaca/Goodreads_Webscraping):  
   Web scraper for Goodreads reviews, plus a basic analysis of book ratings and feedback.
 
-- 🔹 [**TipodeCambio_SBS**](https://github.com/juanfaca/TipodeCambio_SBS):  
+- 🔹 [**Gender Wage Gap Quantiles**](https://github.com/juanfaca/Gender_Wage_Gap_Quantiles):  
+  Bachelor thesis data exploration and modelling about gender wage gap in Peru.
+
+- 🔹 [**TipodeCambio_SBS**](https://github.com/juanfaca/SBS-Exchange-Rate-Extractor):  
   Simple script to scrape exchange rate data from the Peruvian SBS.
+
+  
 
 ---
 
