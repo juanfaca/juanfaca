@@ -7,14 +7,6 @@
 🥋 Taekwondo practicioner.<br>
 
 ---
-
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juancantezana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juancollantesan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanfieecs@gmail.com)
-
----
-
 ## 🧠 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -22,7 +14,6 @@
 ![BigQuery](https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/looker_studio-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white)
-
 
 ---
 
@@ -36,7 +27,9 @@
 
 ---
 
-## 💰 Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@J1999CA)
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juancantezana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juancollantesan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanfieecs@gmail.com)
 
 ---
