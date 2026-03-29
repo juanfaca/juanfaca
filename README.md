@@ -19,6 +19,9 @@
 
 ## 📂 Featured Projects:
 
+- 🔹 [**Compalibros**](https://github.com/juanfaca/compalibros):  
+  A specialized web scraper and price aggregator that compares book prices across major bookstores in Lima using ISBN.
+
 - 🔹 [**Goodreads_Webscraping**](https://github.com/juanfaca/Goodreads_Webscraping):  
   Web scraper for Goodreads reviews, plus a basic analysis of book ratings and feedback.
 
